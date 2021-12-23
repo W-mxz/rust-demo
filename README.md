@@ -1,3 +1,3 @@
 # rust-demo
-for learning rust
+in order to learn rust
 练习rust
